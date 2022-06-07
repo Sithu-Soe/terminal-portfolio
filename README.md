@@ -3,7 +3,7 @@ It's a terminal theme portfolio.
 ![image](https://user-images.githubusercontent.com/48609016/172285356-03ae346b-1b96-481b-b6f6-1236a5d4c435.png)
 
 
-Check this out in vercel: https://sithusoe.vercel.app/
+Check this out in vercel: https://sithusoe-sithu-soe.vercel.app/
 
 type "help" command to see all the commands:
 
