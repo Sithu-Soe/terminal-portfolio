@@ -1,30 +1,30 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/Sithu-Soe/terminal-portfolio/main/README.md",
+  "title": "Sithu Soe",
+  "name": "Sithu Soe",
+  "ascii": "Sithu Soe",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "Sithu-Soe",
+    "linkedin": "sithu-soe-613a4a186"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "soesithu908@gmail.com",
+  "ps1_hostname": "turtle",
+  "ps1_username": "sithu",
+  "repo": "https://github.com/Sithu-Soe/terminal-portfolio",
+  "resume_url": "https://drive.google.com/file/d/1WgKON-9BtZW41SjavIn2c842OBDW_Dto/view?usp=sharing",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me",
+    "patreon": "https://patreon.com"
   },
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background": "#300a24",
+      "foreground": "#26A269",
+      "yellow": "#2AA1B3",
+      "green": "#26A269",
+      "gray": "#D0CFCC",
+      "blue": "#171421",
+      "red": "#C01C28"
     },
     "dark": {
       "background": "#2E3440",
